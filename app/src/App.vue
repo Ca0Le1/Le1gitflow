@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     这里是1914 git 测试
+    <h4>是路人乙的注册</h4>
   </div>
 </template>
 
