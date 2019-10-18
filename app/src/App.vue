@@ -1,16 +1,18 @@
 <template>
   <div id="app">
     这里是1914 git 测试
+    <Login></Login>
   </div>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-
+import Login from  './components/Login'
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    HelloWorld,
+    Login
   }
 }
 </script>
