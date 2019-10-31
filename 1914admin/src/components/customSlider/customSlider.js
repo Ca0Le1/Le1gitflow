@@ -23,30 +23,6 @@ const root=[
                 name:'信息管理',
                 path:'/admin/user/info',
                 key:'/admin/user/info',
-                children:[
-                    {
-                        name:'权限管理1',
-                        path:'/admin/user/root',
-                        key:'/admin/user/root'
-                    },
-                    {
-                        name:'权限管理1',
-                        path:'/admin/user/root',
-                        key:'/admin/user/root',
-                        children:[
-                            {
-                                name:'权限管理2',
-                                path:'/admin/user/root',
-                                key:'/admin/user/root'
-                            },
-                            {
-                                name:'权限管理2',
-                                path:'/admin/user/root',
-                                key:'/admin/user/root'
-                            },
-                        ]
-                    },
-                ]
             },
         ]
     },
